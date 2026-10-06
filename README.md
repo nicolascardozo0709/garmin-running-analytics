@@ -108,7 +108,7 @@ predicted_pace = model.predict([[10.0, 80.0, 155.0]])
 
 ### 1. Clone & Setup Environment
 ```bash
-git clone https://github.com/your-username/garmin-running-analytics.git
+git clone https://github.com/nicolascardozo0709/garmin-running-analytics.git
 cd garmin-running-analytics
 pip install -r requirements.txt
 ```
